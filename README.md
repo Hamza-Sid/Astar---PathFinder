@@ -1,4 +1,4 @@
-# Astar---PathFinder
+# Astar-PathFinder
 About:
 A*: This algorithm finds the shortest path between two points using heuristics (in this case, calculated estimates of the distance from start and end) and tries many possible directions until it reaches the end using only the shortest path
 
